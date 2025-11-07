@@ -1,0 +1,9 @@
+{
+	"name": "shareef-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4211785-2679-4e47-9f94-9e2d4269a83d",
+		"tenantId": "c7195cf8-5677-4c5d-b536-58d85146c8aa"
+	}
+}
